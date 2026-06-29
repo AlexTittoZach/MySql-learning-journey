@@ -52,7 +52,7 @@ select * from employees;
 
 /*
 alter table employees modify column hourly_pay decimal(5,3);
-insert into employees (employee_id,first_name,last_name) values (4,"namitha","anna");
+insert into employees (employee_id,first_name,last_name) values (4,"sangeetha","theja");
 */
 
 /*
